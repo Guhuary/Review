@@ -4,7 +4,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;这个项目是用来对前两年读过的论文做一下整理，回顾本科期间所阅读过的论文以及整理之后要读的论文，并给出论文链接以及代码，其中文本图像生成是一个大专题，比较完整，整理后放在了`./text2image/README.md`文件中。
 
-&nbsp;&nbsp;&nbsp;&nbsp;本人本科期间主要从事人工智能在图像处理上的应用，在图像增强上有做过单图超分（Single Image Super-Resolution, SISR），单图去雨（Single Image Deraining）,图神经网络（Graph Convolutional Networks, GCNs）以及跨模态图像文本生成（Text2Image，T2I）。现从事多模态（Multi-Model），生成对抗网络（Generative Adversarial Network, GAN）以及小样本（Few-shot Learning）的研究。`GAN`以及`Sampling Methods`的论文放在了`./GAN&GAN and Sampling Methods/README.md`中。
+&nbsp;&nbsp;&nbsp;&nbsp;本人本科期间主要从事人工智能在图像处理上的应用，在图像增强上有做过单图超分（Single Image Super-Resolution, SISR），单图去雨（Single Image Deraining）,图神经网络（Graph Convolutional Networks, GCNs）以及跨模态图像文本生成（Text2Image，T2I）。现从事多模态（Multi-Model），生成对抗网络（Generative Adversarial Network, GAN）以及小样本（Few-shot Learning）的研究。`GAN`以及`Sampling Methods`的论文放在了`./GAN and Sampling Methods/README.md`中。
 
 &nbsp;&nbsp;&nbsp;&nbsp;正常情况下每周对论文会有所更新。
 
