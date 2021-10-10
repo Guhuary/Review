@@ -98,7 +98,7 @@
 
 
 
-### Image Enhencement
+### Image(Video) Enhencement
 |Year   | Title  | Model  | Key Notes |Publication| Paper | Code |Have Read?(Y/N)|
 |-------|--------|--------|--------|--------|--------|--------|--------|
 |2021|**Distributed feedback network for single-image deraining**|DFN|Derain|`INS`|[PDF](https://www.sciencedirect.com/science/article/pii/S0020025521002371)|[Code](https://github.com/Guhuary/DFN)|Y
