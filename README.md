@@ -22,7 +22,7 @@
 
 5. [PyTorch example](https://github.com/pytorch/examples)，这是PyTorch的官方模板平台，学习PyTorch高端操作最好的样例。
 
-6. [如何读论文——论文精读](https://www.bilibili.com/video/BV1H44y1t75x)，这是李沐大神在B站分享的项目，持续跟进可以很好规范自己的科研习惯。
+6. [如何读论文——论文精读](https://www.bilibili.com/video/BV1H44y1t75x)，这是李沐大神在B站分享的项目，持续跟进可以很好规范自己的科研习惯。以及[李沐大神教你学AI](https://space.bilibili.com/1567748478?spm_id_from=333.788.b_765f7570696e666f.1)。
 
 7. 李宏毅老师关于GAN的介绍，[B站视频链接](https://www.bilibili.com/video/BV1Up411R7Lk)
 
