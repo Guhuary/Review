@@ -26,6 +26,8 @@
 
 7. 李宏毅老师关于GAN的介绍，[B站视频链接](https://www.bilibili.com/video/BV1Up411R7Lk)
 
+8. 国内AI公众号两大“顶刊”：机器之心、量子位。平时无聊可以刷刷，增长见闻。
+
 
 ## Entity Resolution (Table) 
 ### 杂七杂八的文章
