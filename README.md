@@ -12,7 +12,7 @@
 
 1. [卷积的概念以及基础](https://www.bilibili.com/video/BV1F4411y7o7?from=search&seid=4145305518394585094)，主要是前两个章节，有兴趣的可以多看看。
 
-2. [吴恩达机器学习](https://www.bilibili.com/video/BV164411b7dx?p=112)，主要是第9-11章节梯度回传部分，有兴趣的可以考虑都看完。
+2. [吴恩达机器学习](https://www.bilibili.com/video/BV164411b7dx?p=112)，主要是第9-11章节梯度回传部分，有兴趣的可以考虑都看完。机器学习完整版的学习看吴恩达和李宏毅的均可以。
 
 3. [Pytorch一小时入门](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)，这是Pytorch的简单入门，一些基础操作，很快就可以看完了。
 
