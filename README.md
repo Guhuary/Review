@@ -4,7 +4,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;这个项目是用来对前两年读过的论文做一下整理，回顾本科期间所阅读过的论文。同时也整理之后要读的论文，均给出了论文链接以及代码，其中文本图像生成是一个大专题，比较完整，整理后放在了`./text2image/README.md`文件中。
 
-&nbsp;&nbsp;&nbsp;&nbsp;本人本科期间主要从事人工智能在图像处理上的应用，在图像增强上有做过单图超分（Single Image Super-Resolution, SISR），单图去雨（Single Image Deraining）,图神经网络（Graph Convolutional Networks, GCNs）以及跨模态图像文本生成（Text2Image，T2I）。现从事多模态（Multi-Model），生成对抗网络（Generative Adversarial Network, GAN）以及小样本（Few-shot Learning）的研究。`GAN`以及`Sampling Methods`的论文放在了`./GAN and Sampling Methods/README.md`中。
+&nbsp;&nbsp;&nbsp;&nbsp;本人本科期间主要从事人工智能在图像处理上的应用，在图像增强上有做过单图超分（Single Image Super-Resolution， SISR），单图去雨（Single Image Deraining），图神经网络（Graph Convolutional Networks， GCNs）以及跨模态图像文本生成（Text2Image，T2I）。现从事多模态（Multi-Model），生成对抗网络（Generative Adversarial Network， GAN）以及小样本（Few-shot Learning）的研究。`GAN`以及`Sampling Methods`的论文放在了`./GAN and Sampling Methods/README.md`中。
 
 &nbsp;&nbsp;&nbsp;&nbsp;正常情况下每周对论文会有所更新。
 
@@ -27,6 +27,24 @@
 7. 李宏毅老师关于GAN的介绍，[B站视频链接](https://www.bilibili.com/video/BV1Up411R7Lk)
 
 8. 国内AI公众号两大“顶刊”：机器之心、量子位。平时无聊可以刷刷，增长见闻。
+
+9. 刘建平Pinard的[博客配套代码](https://github.com/ljpzzz/machinelearning)
+
+## 这里介绍几个我所在领域的顶刊顶会
+
+* 顶刊：TPAMI(CCF A)， TIP(CCF A)， TMM(CCF B)
+
+* 顶会：NeurIPS， CVPR， ICCV， ECCV， ICML， ICLR， AAAI， IJCAI， KDD， SIGIR， 其中KDD与SIGIR是数据挖掘信息检索的顶会
+
+## 分享几个顶会的论文合集
+
+* [NeurIPS Proceedings](https://proceedings.neurips.cc/)包含了NIPS历年的paper。
+
+* [Computer Vision Foundation(CVF) Open Access](https://openaccess.thecvf.com/menu)包含了CVF几个顶会的所有论文，ICCV，CVPR，WACV
+
+* [Aminer](https://www.aminer.cn/conf)是个好东西，收集了各个顶会的论文并根据主题进行分类整理，十分方便。有[CVPR2021](https://www.aminer.cn/conf/iccv2021)，[NIPS2021](https://www.aminer.cn/conf/neurips2021)，[ICCV2021](https://www.aminer.cn/conf/iccv2021)，[IJCAI2021](https://www.aminer.cn/conf/ijcai2021)，[SIGIR2021](https://www.aminer.cn/conf/sigir2021)，[KDD2021](https://www.aminer.cn/conf/kdd2021)，[ICML2021](https://www.aminer.cn/conf/icml2021)，[ICLR2021](https://www.aminer.cn/conf/iclr2021)等。想要以往的论文只需把网页中的`2021`改为`Year`即可。
+
+
 
 
 ## Entity Resolution (Table) 
@@ -62,7 +80,7 @@
 |Year   | Title  | Model  | Key Notes |Publication| Paper | Code |Have Read?(Y/N)|
 |-------|--------|--------|--------|--------|--------|--------|--------|
 |2019|**Can GCNs Go as Deep as CNNs?**|DeepGCN|Point cloud segmentation|```ICCV```|[PDF](https://arxiv.org/abs/1904.03751)|[Code](https://github.com/lightaime/deep_gcns)|Y
-|2020|**Feedback Graph Convolutional Network for Skeleton-based Action Recognition**||GCN, FB|`CVPR`|[PDF](https://openaccess.thecvf.com/content_CVPR_2020/html/Cheng_Skeleton-Based_Action_Recognition_With_Shift_Graph_Convolutional_Network_CVPR_2020_paper.html)||Y
+|2020|**Feedback Graph Convolutional Network for Skeleton-based Action Recognition**||GCN， FB|`CVPR`|[PDF](https://openaccess.thecvf.com/content_CVPR_2020/html/Cheng_Skeleton-Based_Action_Recognition_With_Shift_Graph_Convolutional_Network_CVPR_2020_paper.html)||Y
 |2020|**PairNorm: Tackling Oversmoothing in GNNs**|PairNorm|GCN|`ICLR`|[PDF](https://openreview.net/forum?id=rkecl1rtwB)|[Code](https://github.com/LingxiaoShawn/PairNorm)|Y
 |2018|**Residual Gated Graph ConvNets**||GCN|`ICLR`|[PDF](https://openreview.net/forum?id=HyXBcYg0b)|[Code](https://github.com/xbresson/spatial_graph_convnets)|Y
 |2019|**On Asymptotic Behaviors of Graph CNNs from Dynamical Systems Perspective**||GCN|`CoRR`|[PDF](https://openreview.net/forum?id=mPLlSuOPxJh)||N
