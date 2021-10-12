@@ -34,7 +34,7 @@
 
 * 顶刊：TPAMI(CCF A)， TIP(CCF A)， TMM(CCF B)
 
-* 顶会：NeurIPS， CVPR， ICCV， ECCV， ICML， ICLR， AAAI， IJCAI， KDD， SIGIR， 其中KDD与SIGIR是数据挖掘信息检索的顶会
+* 顶会：NeurIPS， CVPR， ICCV， ECCV， ICML， ICLR， AAAI， ACM MM， IJCAI， KDD， SIGIR， 其中KDD与SIGIR是数据挖掘信息检索的顶会
 
 ## 分享几个顶会的论文合集
 
@@ -79,6 +79,7 @@
 ### GCN
 |Year   | Title  | Model  | Key Notes |Publication| Paper | Code |Have Read?(Y/N)|
 |-------|--------|--------|--------|--------|--------|--------|--------|
+|2021|**Be Confident! Towards Trustworthy Graph Neural Networks via Confidence Calibration**||GCN|```NIPS```|[PDF](https://arxiv.org/abs/2109.14285?context=cs)||N
 |2019|**Can GCNs Go as Deep as CNNs?**|DeepGCN|Point cloud segmentation|```ICCV```|[PDF](https://arxiv.org/abs/1904.03751)|[Code](https://github.com/lightaime/deep_gcns)|Y
 |2020|**Feedback Graph Convolutional Network for Skeleton-based Action Recognition**||GCN， FB|`CVPR`|[PDF](https://openaccess.thecvf.com/content_CVPR_2020/html/Cheng_Skeleton-Based_Action_Recognition_With_Shift_Graph_Convolutional_Network_CVPR_2020_paper.html)||Y
 |2020|**PairNorm: Tackling Oversmoothing in GNNs**|PairNorm|GCN|`ICLR`|[PDF](https://openreview.net/forum?id=rkecl1rtwB)|[Code](https://github.com/LingxiaoShawn/PairNorm)|Y
