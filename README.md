@@ -8,7 +8,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;正常情况下每周对论文会有所更新。
 
-## 这里先介绍几个很好用的学习项目(不需要全学)
+## 入门
 
 1. [卷积的概念以及基础](https://www.bilibili.com/video/BV1F4411y7o7?from=search&seid=4145305518394585094)，主要是前两个章节，有兴趣的可以多看看。
 
@@ -20,15 +20,20 @@
 
 `CUDA_VISIBLE_DEVICES=0 python ResNet_CIFAR10.py`
 
-5. [PyTorch example](https://github.com/pytorch/examples)，这是PyTorch的官方模板平台，学习PyTorch高端操作最好的样例。
+## 这里介绍几个很好用的项目
 
-6. [如何读论文——论文精读](https://www.bilibili.com/video/BV1H44y1t75x)，这是李沐大神在B站分享的项目，持续跟进可以很好规范自己的科研习惯。以及[李沐大神教你学AI](https://space.bilibili.com/1567748478?spm_id_from=333.788.b_765f7570696e666f.1)。
+1. [PyTorch example](https://github.com/pytorch/examples)，这是PyTorch的官方模板平台，学习PyTorch高端操作最好的样例。
 
-7. 李宏毅老师关于GAN的介绍，[B站视频链接](https://www.bilibili.com/video/BV1Up411R7Lk)
+2. [如何读论文——论文精读](https://www.bilibili.com/video/BV1H44y1t75x)，这是李沐大神在B站分享的项目，持续跟进可以很好规范自己的科研习惯。以及[李沐大神教你学AI](https://space.bilibili.com/1567748478?spm_id_from=333.788.b_765f7570696e666f.1)。
 
-8. 国内AI公众号两大“顶刊”：机器之心、量子位。平时无聊可以刷刷，增长见闻。
+3. 李宏毅老师关于GAN的介绍，[B站视频链接](https://www.bilibili.com/video/BV1Up411R7Lk)
 
-9. 刘建平Pinard的[博客配套代码](https://github.com/ljpzzz/machinelearning)
+4. 国内AI公众号两大“顶刊”：机器之心、量子位。平时无聊可以刷刷，增长见闻。
+
+5. 刘建平Pinard的[博客配套代码](https://github.com/ljpzzz/machinelearning)
+
+6. 《计算机视觉实战演练：算法与应用》中文电子书、源码、读者交流社区（持续更新中 ...）📘 [在线电子书]( https://charmve.github.io/computer-vision-in-action/) 
+
 
 ## 这里介绍几个我所在领域的顶刊顶会
 

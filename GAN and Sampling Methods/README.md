@@ -17,3 +17,4 @@ Papers are categorized by objects: ```GAN```, ```Sampling Methods``` and sorted 
 |2019|**Metropolis-Hastings Generative Adversarial Networks**| MH-GAN|```ICML```|[PDF](https://arxiv.org/abs/1811.11357)|[Code](https://github.com/uber-research/metropolis-hastings-gans)|N|
 |2019|**THE UNUSUAL EFFECTIVENESS OF AVERAGING IN GAN TRAINING**|EMA-GAN|```ICLR```|[PDF](https://openreview.net/pdf?id=SJgw_sRqFQ)|[Code](https://github.com/yasinyazici/EMA_GAN)|N
 |2020|**On Leveraging Pretrained GANs for Generation with Limited Data**||```ICML```|[PDF](http://proceedings.mlr.press/v119/zhao20a/zhao20a.pdf)|[Code](https://github.com/MiaoyunZhao/GANTransferLimitedData)|N
+|2018|**Do GANs learn the distribution? Some Theory and Empirics**||`ICLR`|[PDF](https://openreview.net/forum?id=BJehNfW0-)||N
