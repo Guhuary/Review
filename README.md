@@ -52,7 +52,7 @@
 
 
 
-## Entity Resolution (Table) 
+## Entity Resolution (Table)
 ### 杂七杂八的文章
 
 |Year   | Title  | Model  | Key Notes |Publication| Paper | Code |Have Read?(Y/N)|
