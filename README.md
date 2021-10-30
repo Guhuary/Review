@@ -47,7 +47,7 @@
 
 * [Computer Vision Foundation(CVF) Open Access](https://openaccess.thecvf.com/menu)包含了CVF几个顶会的所有论文，ICCV，CVPR，WACV
 
-* [AMiner](https://www.aminer.cn/conf)是个好东西，收集了各个顶会的论文并根据主题进行分类整理，十分方便。有[CVPR2021](https://www.aminer.cn/conf/iccv2021)，[NIPS2021](https://www.aminer.cn/conf/neurips2021)，[ICCV2021](https://www.aminer.cn/conf/iccv2021)，[IJCAI2021](https://www.aminer.cn/conf/ijcai2021)，[SIGIR2021](https://www.aminer.cn/conf/sigir2021)，[KDD2021](https://www.aminer.cn/conf/kdd2021)，[ICML2021](https://www.aminer.cn/conf/icml2021)，[ICLR2021](https://www.aminer.cn/conf/iclr2021)等。想要以往的论文只需把网页中的`2021`改为`Year`即可。
+* [AMiner](https://www.aminer.cn/conf)是个好东西，收集了各个顶会的论文并根据主题进行分类整理，十分方便。有[CVPR2021](https://www.aminer.cn/conf/cvpr2021)，[NIPS2021](https://www.aminer.cn/conf/neurips2021)，[ICCV2021](https://www.aminer.cn/conf/iccv2021)，[IJCAI2021](https://www.aminer.cn/conf/ijcai2021)，[SIGIR2021](https://www.aminer.cn/conf/sigir2021)，[KDD2021](https://www.aminer.cn/conf/kdd2021)，[ICML2021](https://www.aminer.cn/conf/icml2021)，[ICLR2021](https://www.aminer.cn/conf/iclr2021)等。想要以往的论文只需把网页中的`2021`改为`Year`即可。
 
 
 
