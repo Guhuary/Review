@@ -57,6 +57,8 @@
 
 |Year   | Title  | Model  | Key Notes |Publication| Paper | Code |Have Read?(Y/N)|
 |-------|--------|--------|--------|--------|--------|--------|--------|
+|2019|**Implicit Semantic Data Augmentation for Deep Networks**||ISDA|`NIPS`|[PDF](https://proceedings.neurips.cc/paper/2019/file/15f99f2165aa8c86c9dface16fefd281-Paper.pdf)|[Code](https://github.com/blackfeather-wang/ISDA-for-Deep-Networks)|N
+|2021|**Regularizing Deep Networks with Semantic Data Augmentation**||ISDA|`TPAMI`|[PDF](https://arxiv.org/abs/2007.10538)|[Code](https://github.com/blackfeather-wang/ISDA-for-Deep-Networks)|Y
 |2016|**Deep Residual Learning for Image Recognition**| ResNet|ResBlock|```CVPR```|[PDF](https://arxiv.org/abs/1512.03385)||Y|
 |2016|**Identity Mappings in Deep Residual Networks**|||`arXiv`|[PDF](https://arxiv.org/abs/1603.05027)|[Code](https://github.com/KaimingHe/resnet-1k-layers)|Y
 |2020|**PointRend: Image Segmentation as Rendering**| PointRend|Segmentation|```CVPR```|[PDF](https://arxiv.org/abs/1912.08193)|[Code](https://github.com/zsef123/PointRend-PyTorch)|N|
