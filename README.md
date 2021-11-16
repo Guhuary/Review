@@ -57,7 +57,9 @@
 
 |Year   | Title  | Model  | Key Notes |Publication| Paper | Code |Have Read?(Y/N)|
 |-------|--------|--------|--------|--------|--------|--------|--------|
-|2019|**Implicit Semantic Data Augmentation for Deep Networks**||ISDA|`NIPS`|[PDF](https://proceedings.neurips.cc/paper/2019/file/15f99f2165aa8c86c9dface16fefd281-Paper.pdf)|[Code](https://github.com/blackfeather-wang/ISDA-for-Deep-Networks)|N
+|2021|**ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement**|ReStyle|GAN inversion|`ICCV`|[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Alaluf_ReStyle_A_Residual-Based_StyleGAN_Encoder_via_Iterative_Refinement_ICCV_2021_paper.pdf)|[Code](https://github.com/yuval-alaluf/restyle-encoder)|Y
+|2021|**An image is worth 16x16 words: Transformers for image recognition at scale**|Transformer|ViT|`ICLR`|[PDF](https://openreview.net/forum?id=YicbFdNTTy)|N
+|2019|**Implicit Semantic Data Augmentation for Deep Networks**||ISDA|`NIPS`|[PDF](https://proceedings.neurips.cc/paper/2019/file/15f99f2165aa8c86c9dface16fefd281-Paper.pdf)|[Code](https://github.com/blackfeather-wang/ISDA-for-Deep-Networks)|Y
 |2021|**Regularizing Deep Networks with Semantic Data Augmentation**||ISDA|`TPAMI`|[PDF](https://arxiv.org/abs/2007.10538)|[Code](https://github.com/blackfeather-wang/ISDA-for-Deep-Networks)|Y
 |2016|**Deep Residual Learning for Image Recognition**| ResNet|ResBlock|```CVPR```|[PDF](https://arxiv.org/abs/1512.03385)||Y|
 |2016|**Identity Mappings in Deep Residual Networks**|||`arXiv`|[PDF](https://arxiv.org/abs/1603.05027)|[Code](https://github.com/KaimingHe/resnet-1k-layers)|Y
@@ -78,6 +80,12 @@
 |2020|**NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis**|||`ECCV`|[PDF](https://arxiv.org/abs/2003.08934)|[Code](https://github.com/bmild/nerf)|Y
 |2021|**Rethinking “Batch” in BatchNorm**|||`arXiv`|[PDF](https://arxiv.org/abs/2105.07576)||Y
 |2018|**Unsupervised Feature Learning via Non-Parametric Instance Discrimination**|||`CVPR`|[PDF](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0801.pdf)|[Code](https://link.zhihu.com/?target=https%3A//github.com/zhirongw/lemniscate.pytorch)|Y
+
+
+### Text to Image
+|Year   | Title  | Model  | Key Notes |Publication| Paper | Code |Have Read?(Y/N)|
+|-------|--------|--------|--------|--------|--------|--------|--------|
+|2019|**Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis**|MSGANs|T2I|`CVPR`|[PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mao_Mode_Seeking_Generative_Adversarial_Networks_for_Diverse_Image_Synthesis_CVPR_2019_paper.pdf)|[Code](https://github.com/HelenMao/MSGAN/)|Y
 
 
 
