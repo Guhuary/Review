@@ -6,6 +6,20 @@
 
 Papers are categorized by objects: ```GAN```, ```Sampling Methods```, `Data Augmentation` and sorted by year.
 
+## GAN
+|Year   | Title  | Model  | Key Notes |Publication| Paper | Code |Have Read?(Y/N)|
+|-------|--------|--------|--------|--------|--------|--------|--------|
+|2021|**Deceive D: Adaptive Pseudo Augmentation for GAN Training with Limited Data**|||`NIPS`|[PDF](https://openreview.net/forum?id=spjlJ4jeM_)|[Code](https://github.com/EndlessSora/DeceiveD)
+|2021|**Rebooting ACGAN: Auxiliary Classifier GANs with Stable Training**|||`NIPS`|[PDF](https://openreview.net/forum?id=r7UC-b67YkO)|
+|2021|**Projected GANs Converge Faster**|||`NIPS`|[PDF](https://openreview.net/forum?id=fUxqIofPPi)|[Code](https://github.com/autonomousvision/projected_gan)
+|2021|**Rethinking conditional GAN training: An approach using geometrically structured latent manifolds**|||`NIPS`|[PDF](https://arxiv.org/abs/2011.13055)|
+|2021|**Self-Diagnosing GAN: Diagnosing Underrepresented Samples in Generative Adversarial Networks**|||`NIPS`|[PDF](https://openreview.net/forum?id=SGZn06ZXcG)|
+|2021|**Self-Supervised GANs with Label Augmentation**|||`NIPS`|[PDF](https://openreview.net/forum?id=MT0pTKLyzkT)|
+|2021|**Low-Rank Subspaces in GANs**|||`NIPS`|[PDF](https://arxiv.org/abs/2106.04488)|
+|2021|**Instance-Conditioned GANs**|||`NIPS`|[PDF](https://arxiv.org/abs/2109.05070)|[Code](https://github.com/facebookresearch/ic_gan)
+|2021|**A Unified View of cGANs with and without Classifiers**|||`NIPS`|[PDF](https://openreview.net/pdf/9dc7a87819232eaa480aa9415ea927bfbb672f55.pdf)|
+
+
 ## Data Augmentation
 |Year   | Title  | Model  | Key Notes |Publication| Paper | Code |Have Read?(Y/N)|
 |-------|--------|--------|--------|--------|--------|--------|--------|
