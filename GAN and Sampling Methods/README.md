@@ -4,24 +4,26 @@
 [//]: # (|2021|****|||`1`|[PDF]()||N)
 
 
-Papers are categorized by objects: ```GAN```, ```Sampling Methods```, `Data Augmentation` and sorted by year.
+Papers are categorized by objects: ```GAN```, ```Sampling Methods```, `Data Augmentation` and sorted by year. 
 
 ## GAN
 |Year   | Title  | Model  | Key Notes |Publication| Paper | Code |Have Read?(Y/N)|
 |-------|--------|--------|--------|--------|--------|--------|--------|
+|2021|**Data-Efficient Instance Generation from Instance Discrimination**|||`NIPS`|[PDF](https://openreview.net/forum?id=9BpjtPMyDQ)|[Code](https://link.zhihu.com/?target=https%3A//github.com/genforce/insgen)|Y
+|2021|**On Noise Injection in Generative Adversarial Networks**|||`ICML`|[PDF](https://openreview.net/forum?id=fgX9O5q0BT)||N
 |2021|**Deceive D: Adaptive Pseudo Augmentation for GAN Training with Limited Data**|||`NIPS`|[PDF](https://openreview.net/forum?id=spjlJ4jeM_)|[Code](https://github.com/EndlessSora/DeceiveD)|Y
 |2021|**Regularizing Generative Adversarial Networks under Limited Data**|||`CVPR`|[PDF](https://arxiv.org/abs/2104.03310)|[Code](https://github.com/google/lecam-gan)|N
 |2021|**One-Shot GAN: Learning To Generate Samples From Single Images and Videos**|||`CVPR`|[PDF](https://openaccess.thecvf.com/content/CVPR2021W/LLID/papers/Sushko_One-Shot_GAN_Learning_To_Generate_Samples_From_Single_Images_and_CVPRW_2021_paper.pdf)||N
 |2021|**Masked Autoencoders Are Scalable Vision Learners**|||`arXiv`|[PDF](https://arxiv.org/abs/2111.06377#:~:text=This%20paper%20shows%20that%20masked%20autoencoders%20%28MAE%29%20are,pixels.%20It%20is%20based%20on%20two%20core%20designs.)||Y
 |2021|**On Data Augmentation for GAN Training**|||`TIP`|[PDF](https://ieeexplore.ieee.org/document/9319516)||N
 |2020|**Training generative adversarial networks with limited data**|||`NIPS`|[PDF](https://proceedings.neurips.cc/paper/2020/hash/8d30aa96e72440759f74bd2306c1fa3d-Abstract.html)||Y
-|2021|**Rebooting ACGAN: Auxiliary Classifier GANs with Stable Training**|||`NIPS`|[PDF](https://openreview.net/forum?id=r7UC-b67YkO)|
+|2021|**Rebooting ACGAN: Auxiliary Classifier GANs with Stable Training**|||`NIPS`|[PDF](https://openreview.net/forum?id=r7UC-b67YkO)||N
 |2021|**Projected GANs Converge Faster**|||`NIPS`|[PDF](https://openreview.net/forum?id=fUxqIofPPi)|[Code](https://github.com/autonomousvision/projected_gan)
 |2021|**Rethinking conditional GAN training: An approach using geometrically structured latent manifolds**|||`NIPS`|[PDF](https://arxiv.org/abs/2011.13055)|
 |2021|**Self-Diagnosing GAN: Diagnosing Underrepresented Samples in Generative Adversarial Networks**|||`NIPS`|[PDF](https://openreview.net/forum?id=SGZn06ZXcG)|
 |2021|**Self-Supervised GANs with Label Augmentation**|||`NIPS`|[PDF](https://openreview.net/forum?id=MT0pTKLyzkT)|
 |2021|**Low-Rank Subspaces in GANs**|||`NIPS`|[PDF](https://arxiv.org/abs/2106.04488)|[Code](https://github.com/zhujiapeng/LowRankGAN/)|N
-|2021|**Instance-Conditioned GANs**|||`NIPS`|[PDF](https://arxiv.org/abs/2109.05070)|[Code](https://github.com/facebookresearch/ic_gan)
+|2021|**Instance-Conditioned GANs**|||`NIPS`|[PDF](https://arxiv.org/abs/2109.05070)|[Code](https://github.com/facebookresearch/ic_gan)|N
 |2021|**A Unified View of cGANs with and without Classifiers**|||`NIPS`|[PDF](https://openreview.net/pdf/9dc7a87819232eaa480aa9415ea927bfbb672f55.pdf)|
 
 
